@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="1.css"?>
+<books>
+	<BOOK>
+			<TITLE>Нечаканая Беларусь</TITLE>
+      <AUTHOR>Сяргей Плыткевіч</AUTHOR>
+			<PAGES>212</PAGES>
+      <YEAR>2016</YEAR>
+	</BOOK>
+  <BOOK>
+      <TITLE>Зямля сілы. Белавежская пушча</TITLE>
+      <AUTHOR>Ю.В.Бажэнаў</AUTHOR>
+      <PAGES>600</PAGES>
+      <YEAR>2009</YEAR>
+  </BOOK>
+  <BOOK>
+      <TITLE>Цвірка Віталь. Альбом</TITLE>
+      <AUTHOR>Цвірка Віталь</AUTHOR>
+      <PAGES>50</PAGES>
+      <YEAR>2016</YEAR>
+  </BOOK>
+  <BOOK>
+      <TITLE>Гэта Беларусь, дзетка!</TITLE>
+      <AUTHOR>Марта Чернова, Мария Черякова</AUTHOR>
+      <PAGES>90</PAGES>
+      <YEAR>2015</YEAR>
+  </BOOK>
+</books>

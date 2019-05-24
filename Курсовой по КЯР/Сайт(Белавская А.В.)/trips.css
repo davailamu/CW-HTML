@@ -1,0 +1,86 @@
+body {
+            background: url(Forest.gif);
+            background-size: 1700px;
+            background-attachment: fixed;
+            font: 300 100% 'Helvetica Neue', Helvetica, Arial, white;
+        }
+
+        .main {
+            position: absolute;
+            margin: 10px;
+            margin-left: 5%;
+            padding: 15px;
+            text-align: center;
+            background-color: black;
+            opacity: 0.5;
+            width: 100px;
+            border: 5px tomato solid;
+        }
+
+        a {
+            display: inline-block;
+            text-decoration: none;
+            color: white;
+        }
+        .top {
+            position: absolute;
+            margin: 10px;
+            margin-left: 45%;
+            padding: 15px;
+            text-align: center;
+            background-color: black;
+            opacity: 0.5;
+            width: 100px;
+            border: 5px tomato solid;
+        }
+        li {
+            display: inline-block;
+        }
+        .al1 {
+            background: url(al1.jpg);
+            width: 350px;
+            height: 240px;
+            border: 5px solid white;
+            transition: 1s;
+        }
+
+            .al1:hover {
+                background: url(al1hover.jpg);
+            }
+            .al2 {
+            background: url(al2.jpg);
+            width: 350px;
+            height: 240px;
+            border: 5px solid white;
+            transition: 1s;
+        }
+
+            .al2:hover {
+                background: url(al2hover.jpg);
+            }
+            .al3 {
+            background: url(al3.jpg);
+            width: 350px;
+            height: 240px;
+            border: 5px solid white;
+            transition: 1s;
+        }
+
+            .al3:hover {
+                background: url(al3hover.jpg);
+            }
+            .al4 {
+            background: url(al4.jpg);
+            width: 350px;
+            height: 240px;
+            border: 5px solid white;
+            transition: 1s;
+        }
+
+            .al4:hover {
+                background: url(al4hover.jpg);
+            }
+        button {
+            border: none;
+            background: none;
+        }

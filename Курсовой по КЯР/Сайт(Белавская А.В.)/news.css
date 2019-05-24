@@ -1,0 +1,48 @@
+        html {
+            scroll-behavior: smooth;
+        }
+        body {
+            background: url(Forest.gif);
+            background-size: 1700px;
+            background-attachment: fixed;
+            font: 300 100% 'Helvetica Neue', Helvetica, Arial, white;
+            height: auto;
+        }
+        .main {
+            position: absolute;
+            margin: 10px;
+            margin-left: 5%;
+            padding: 15px;
+            text-align: center;
+            background-color: black;
+            opacity: 0.5;
+            width: 100px;
+            border: 5px tomato solid;
+        }
+        .top {
+            position: absolute;
+            margin: 10px;
+            margin-bottom:25px;
+            margin-left: 45%;
+            padding: 15px;
+            text-align: center;
+            background-color: black;
+            opacity: 0.5;
+            width: 100px;
+            border: 5px tomato solid;
+        }
+        a {
+            display: inline-block;
+            text-decoration: none;
+            color: white;
+        }
+        .scroll {
+            border-radius:7px;
+            height:3000px; 
+            width:810px; 
+            background:white;  
+            position:relative; 
+            left: 360px; 
+            margin-bottom: 15px;
+            padding:15px;
+        }

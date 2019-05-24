@@ -1,0 +1,35 @@
+  books
+  {
+            background: url(Forest.gif);
+            background-size: 1700px;
+            background-attachment: fixed;
+            font: 300 100% 'Helvetica Neue', Helvetica, Arial, white;
+  }
+  BOOK
+  {  display:block;
+  background-color: LightYellow;
+  text-align:center;
+  margin:10px 20px 10px 20px;
+  margin-top:12pt;
+  border-style:double;
+  border-color: chocolate;
+  font-size:15pt
+}
+
+  TITLE
+  {  font-style:italic;
+  text-align:center}
+
+  AUTHOR, PAGES, YEAR
+  {  display:block;
+  text-align:center;
+  border-top:double;
+  border-color:chocolate;}
+
+  books
+  {  display:block;
+  margin:50px 100px;
+  border-style:solid;
+  border-color: tomato;}
+
+
